@@ -1,0 +1,13 @@
+Source: gooroom-libsecurity-extensions
+Section: admin
+Priority: optional
+Maintainer: Gooroom Engineering Team <devel-os@gooroom.kr>
+Build-Depends: debhelper (>= 9), libjson-c3, libnotify4, libgdk-pixbuf2.0-0
+Standards-Version: 3.9.5
+Homepage: http://www.gooroom.kr
+
+Package: gooroom-libsecurity-extensions
+Architecture: any
+Depends: 
+Description: gooroom-resource-access-control extensions for screen-capture and clipboard 
+ 
