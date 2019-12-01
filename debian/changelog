@@ -1,3 +1,19 @@
+gooroom-libsecurity-extensions (0.1.1+grm2u1) unstable; urgency=medium
+
+  [ hmkim ]
+  * [02e3bfcb] journallog and notification
+  * [54cfe446] added libdbus-glib-1-dev in control file
+  * [21005620] added python-pyinotify in Depends of control file
+  * [c0004220] changed new xsm.so
+
+  [ ultract ]
+  * [3807d08c] Change xsm.so to latest version file
+  * [e35b5f5a] Change a DBUS Signal Name in xsm.so
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 01 Dec 2019 19:04:29 +0900
+
 gooroom-libsecurity-extensions (0.1.0) unstable; urgency=medium
 
   * Initial Release
