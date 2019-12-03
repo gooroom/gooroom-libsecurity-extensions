@@ -1,0 +1,4 @@
+conf/99-xsm.conf /usr/share/X11/xorg.conf.d/
+conf/xsm-policy.conf /etc/dbus-1/session.d/
+lib/xsm.so /usr/lib/xorg/modules/extensions/
+
