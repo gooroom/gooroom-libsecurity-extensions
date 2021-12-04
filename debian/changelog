@@ -1,3 +1,13 @@
+gooroom-libsecurity-extensions (0.1.4+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [a303fa82] Released on gooroom-3.0
+
+  [ ultract ]
+  * [081cf30b] Modified: xsm.so for Gooroom 3.0
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 04 Dec 2021 13:28:00 +0900
+
 gooroom-libsecurity-extensions (0.1.3+grm2u1) unstable; urgency=medium
 
   [ hmkim ]
