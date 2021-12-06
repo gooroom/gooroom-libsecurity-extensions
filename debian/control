@@ -8,6 +8,6 @@ Homepage: http://www.gooroom.kr
 
 Package: gooroom-libsecurity-extensions
 Architecture: any
-Depends: python-pyinotify
+Depends: 
 Description: gooroom-resource-access-control extensions for screen-capture and clipboard 
  
