@@ -1,3 +1,13 @@
+gooroom-libsecurity-extensions (0.1.5+grm3u1) unstable; urgency=medium
+
+  [ hmkim ]
+  * [198035eb] remove python-pyinotify
+
+  [ ultract ]
+  * [58b848a8] Fixed: a issue of binding symblols in a libjson-c
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 09 Dec 2021 12:54:25 +0900
+
 gooroom-libsecurity-extensions (0.1.4+grm3u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
