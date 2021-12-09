@@ -1,3 +1,13 @@
+gooroom-libsecurity-extensions (0.1.6+grm3u1) unstable; urgency=medium
+
+  [ ultract ]
+  * [ec0d28f8] Modified: the libjson file name to //usr/lib/x86_64-linux-gnu/libjson-c.so.5
+  * [031acdfb] Modified: the control file
+  * [8061fcda] Modified: is_whitelist() in xsm.so
+  * [404ffe44] Modified: white-listing gnome-flashback when a screen is locked
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 09 Dec 2021 19:55:49 +0900
+
 gooroom-libsecurity-extensions (0.1.5+grm3u1) unstable; urgency=medium
 
   [ hmkim ]
