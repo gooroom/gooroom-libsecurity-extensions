@@ -1,3 +1,10 @@
+gooroom-libsecurity-extensions (0.1.7+grm3u1) unstable; urgency=medium
+
+  [ ultract ]
+  * [40d69bd6] Added: gnome-terminal-server into is_whitelist()
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 10 Dec 2021 12:40:03 +0900
+
 gooroom-libsecurity-extensions (0.1.6+grm3u1) unstable; urgency=medium
 
   [ ultract ]
